@@ -8,9 +8,6 @@ I'm a french 🧪 Elixir 🧪 developer that loves programming!
 [![Github Profile](https://img.shields.io/badge/Github-NitnekB-333?style=flat-square&logo=Github&logoColor=white&link=https://github.com/NitnekB)](https://github.com/NitnekB)
 [![Gitlab Profile](https://img.shields.io/badge/Gitlab-NitnekB-fc6d26?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/nitnekb)](https://gitlab.com/nitnekb)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NitnekB&theme=gruvbox&show_icons=true&count_private=true)
-
 ## About Me 🤓
 
 - 📽 I love cinema! This is my first passion
